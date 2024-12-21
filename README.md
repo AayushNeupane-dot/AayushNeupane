@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AayushNeupane-dot
+- 👋 Hi, I’m @AayushNeupane
 - 👀 I’m interested in website development and robotics
 - 🌱 I’m currently learning website designing 
 - 💞️ I’m looking to collaborate on 
